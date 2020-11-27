@@ -23,33 +23,33 @@ Desenvolver um sistema de gerenciamento de controle de jornada de trabalho de mo
 
 ## Sprint 0
 
-Faremos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza do futuro do projeto
+Faremos a documentação do github e toda previsão de funcionalidade do projeto, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza do futuro do projeto
 
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_1.png" width="750px" height="400px"/></p>
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_0.png" width="750px" height="400px"/></p>
 
 [Branch 1](link)
 
 ## Sprint 1
 
-Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa
+Desenvolveremos a tela cadastro de usuários, onde o administrador poderá editar ou criar as informações necessárias para o funcionário. Haverá uma tela para o cadastro do veículo, com funcionalidade similar as de cadastro de usuário, também editável pelo administrador.
 
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_2.png" width="750px" height="400px"/></p>
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_1.png" width="750px" height="400px"/></p>
 
 [Branch 2](link)
 
 ## Sprint 2
 
-Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa 
+Desenvolveremos a tela criar agendamento, onde o administrador escolherá um funcionário e um veículo para efetuar a entrega. O usuário poderá visualizar a tarefa que lhe foi dado
 
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_3.png" width="750px" height="400px"/></p>
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_2.png" width="750px" height="400px"/></p>
 
 [Branch 3](link)
 
 ## Sprint 3
 
-O administrador terá total acesso sobre os relatórios do usuário e correção de erros e possíveis falhas no sistema.
+Correção de bugs e aprimoramento no design do projeto.
 
-<img src="" width="750px" height="400px"/></p>
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_3.png" width="750px" height="400px"/></p>
 
 [Branch 4](link)
 
