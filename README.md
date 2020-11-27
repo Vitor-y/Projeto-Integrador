@@ -21,7 +21,7 @@ Desenvolver um sistema de gerenciamento de controle de jornada de trabalho de mo
 
 # Sprints Cards
 
-## Primeira Entrega
+## Sprint 0
 
 Faremos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza do futuro do projeto
 
@@ -29,7 +29,7 @@ Faremos a documentação do github e toda previsão de funcionalidade do projeto
 
 [Branch 1](link)
 
-## Segunda Entrega
+## Sprint 1
 
 Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa
 
@@ -37,7 +37,7 @@ Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele esco
 
 [Branch 2](link)
 
-## Terceira Entrega
+## Sprint 2
 
 Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa 
 
@@ -45,7 +45,7 @@ Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele esco
 
 [Branch 3](link)
 
-## Quarta Entrega
+## Sprint 3
 
 O administrador terá total acesso sobre os relatórios do usuário e correção de erros e possíveis falhas no sistema.
 
