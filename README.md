@@ -49,7 +49,7 @@ Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele esco
 
 O administrador terá total acesso sobre os relatórios do usuário e correção de erros e possíveis falhas no sistema.
 
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_4.png" width="750px" height="400px"/></p>
+<img src="" width="750px" height="400px"/></p>
 
 [Branch 4](link)
 
