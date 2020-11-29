@@ -27,7 +27,7 @@ Faremos a documentação do github e toda previsão de funcionalidade do projeto
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_0.png" width="750px" height="400px"/></p>
 
-[Branch 1](link)
+[Branch 0](https://github.com/Vitor-y/Projeto-Integrador/tree/Sprint_0)
 
 ## Sprint 1
 
@@ -35,7 +35,7 @@ Desenvolveremos a tela cadastro de usuários, onde o administrador poderá edita
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_1.png" width="750px" height="400px"/></p>
 
-[Branch 2](link)
+[Branch 1](https://github.com/Vitor-y/Projeto-Integrador/tree/Sprint_1)
 
 ## Sprint 2
 
@@ -43,7 +43,7 @@ Desenvolveremos a tela criar agendamento, onde o administrador escolherá um fun
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_2.png" width="750px" height="400px"/></p>
 
-[Branch 3](link)
+[Branch 2](https://github.com/Vitor-y/Projeto-Integrador/tree/Sprint_2)
 
 ## Sprint 3
 
@@ -51,6 +51,20 @@ Correção de bugs e aprimoramento no design do projeto.
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_3.png" width="750px" height="400px"/></p>
 
-[Branch 4](link)
+[Branch 3](https://github.com/Vitor-y/Projeto-Integrador/tree/Sprint_3)
 
 # Wireframes
+
+[<img src="https://j.gifs.com/nxwK84.gif" width="80%">](https://j.gifs.com/nxwK84.gif)
+
+[<img src="https://j.gifs.com/ZY7jvv.gif" width="80%">](https://j.gifs.com/ZY7jvv.gif)
+
+[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif)
+
+[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif)
+
+[<img src="https://j.gifs.com/L734BW.gif" width="80%">](https://j.gifs.com/L734BW.gif)
+
+[<img src="https://j.gifs.com/2xKVJP.gif" width="80%">](https://j.gifs.com/2xKVJP.gif)
+
+[<img src="https://j.gifs.com/p8yMVr.gif" width="80%">](https://j.gifs.com/p8yMVr.gif)
