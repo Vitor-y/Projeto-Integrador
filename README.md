@@ -50,7 +50,7 @@ Correção de bugs e aprimoramento no design do projeto.
 
 # Wireframes
 
-<p float="right">
+<p float="center">
   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="50%"/>
   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="50%"/>
   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="50%"/>
