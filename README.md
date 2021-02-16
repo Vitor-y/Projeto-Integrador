@@ -7,11 +7,6 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com a Empresa I
 # Objetivo: 
 Desenvolver um sistema de gerenciamento de controle de jornada de trabalho de motoristas de forma parametrizável visando a disponibilização de funcionalidades de planejamento, acompanhamento e controle. Com o sistema tendo há oferecer um cadastro de motorista ( nome completo, CPF, matrícula e ID de identificação do equipamento do caminhão ), um cadastro de dados do veículo ( como a placa, marca do rastreador e versão, bem como o ID de identificação de integração da tecnologia de rastreamento instalado no veículo ), escala de motorista ( turno, carga horária diária, dias de trabalho e folga ), criar cadastro de alertas ( contendo as informações como ocorrência, sigla, ícone, descrição do alerta (nomenclatura da geração do alerta) e regra/parâmetro ), cadastro de status ( Cadastrar todos status e regras de negócio de acordo com cada situação ocorrida durante a jornada ), ID dos macros/mensagens conforme a tecnologia de rastreamento e associação de eventos de jornada para cada macro/ mensagem ( status de início e fim de jornada, tempo de trabalho, tempo de espera, tempo de refeição, tempo de descanso, entre outros )
 
-# Benefícios: 
-- Segurança e facilidade de gerenciamento de grande quantidade de funcionários.
-- Facilidade do usuário marcar seu período de trabalho.
-- Facilidade do administrador em analisar os dados de seus funcionários.
-
 # Integrantes do Projeto:
 - [Francisco Cardoso](https://github.com/fCardosoNeto) - Scrum Master 
 - [Vitor Yuri Santos](https://guthub.com/Vitor-y) - Product Owner
@@ -55,16 +50,14 @@ Correção de bugs e aprimoramento no design do projeto.
 
 # Wireframes
 
-[<img src="https://j.gifs.com/nxwK84.gif" width="80%">](https://j.gifs.com/nxwK84.gif)
+<p float="right">
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif" width="50%"/>
+  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif" width="50%"/>
+</p>
 
-[<img src="https://j.gifs.com/ZY7jvv.gif" width="80%">](https://j.gifs.com/ZY7jvv.gif)
-
-[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif)
-
-[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif)
-
-[<img src="https://j.gifs.com/L734BW.gif" width="80%">](https://j.gifs.com/L734BW.gif)
-
-[<img src="https://j.gifs.com/2xKVJP.gif" width="80%">](https://j.gifs.com/2xKVJP.gif)
-
-[<img src="https://j.gifs.com/p8yMVr.gif" width="80%">](https://j.gifs.com/p8yMVr.gif)
+- [Visualizar todos os gifs](https://github.com/Vitor-y/Projeto-Integrador/tree/main/Img-Projeto/Gifs)
