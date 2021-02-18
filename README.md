@@ -50,14 +50,14 @@ Correção de bugs e aprimoramento no design do projeto.
 
 # Wireframes
 
-<p float="center">
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif" width="500"/>
-  <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif" width="500"/>
-</p>
+| **TELA LOGIN** | **TELA ADMIN** |
+| :---: | :---: | 
+| <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Admin.gif" width="500" /> | <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Admin.gif" width="500" /> |
+| **CADASTRO DE USUARIO** | **CADASTRO DE VEICULO** | 
+| <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="500" /> |   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="500" /> | 
+| **CRIAR ENTREGA** | **LOGIN USUÁRIO** | 
+|   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Criar_Entrega.gif" width="500" h/> |   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Login_Usu%C3%A1rio.gif" width="400" /> | 
+| **VISUALIZAÇÃO DA ENTREGA** | 
+|   <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/Tela_Entrega_Usu%C3%A1rio.gif" width="500" /> | 
 
 - [Visualizar ***todos os wireframes***](https://github.com/Vitor-y/Projeto-Integrador/tree/main/Img-Projeto/Gifs)
