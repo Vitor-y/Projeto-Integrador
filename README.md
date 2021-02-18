@@ -48,6 +48,8 @@ Correção de bugs e aprimoramento no design do projeto.
 
 [Branch 3](https://github.com/Vitor-y/Projeto-Integrador/tree/Sprint_3)
 
+- [Visualizar ***todos os cards***](https://github.com/Vitor-y/Projeto-Integrador/tree/main/Img-Projeto/Cards)
+
 # Wireframes
 
 | **TELA LOGIN** | **TELA ADMIN** |
